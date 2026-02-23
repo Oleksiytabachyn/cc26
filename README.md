@@ -23,7 +23,13 @@ Greetings fellow octopus
 
 ## Week 5 Lab - Create a Simple Game
 
-Create BugZap. Create the main game and scoring first. Add start and game over scenece if you have time:
+Its [Godó Gaedhleach tonight](https://www.eventbrite.ie/e/1982738409958?aff=oddtdtcreator) Fáilte!
+
+The [Godot XR Jam](https://itch.io/jam/godot-xr-game-jam-mar-2026) is coming up in March.
+
+For today:
+
+Create BugZap. Create the main game and scoring first. Add start and game over scene if you have time:
 
 [![YouTube](http://img.youtube.com/vi/s6PA8jtWneQ/0.jpg)](https://www.youtube.com/watch?v=s6PA8jtWneQ)
 
