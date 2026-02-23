@@ -1,0 +1,17 @@
+[gd_scene format=3 uid="uid://oxhsnf3hcuae"]
+
+[ext_resource type="Script" uid="uid://bphv8ajsqkomh" path="res://week_4.gd" id="1_0y5nc"]
+[ext_resource type="Script" uid="uid://dxlqv81l2rxd7" path="res://examples/draw_test.gd" id="1_q0m5d"]
+[ext_resource type="Script" uid="uid://brtpy3k1vmb3" path="res://examples/osc.gd" id="3_k7lo4"]
+
+[node name="week4" type="Node2D" unique_id=1282876234]
+script = ExtResource("1_q0m5d")
+
+[node name="circle" type="Node2D" parent="." unique_id=615079498]
+position = Vector2(463, 314)
+script = ExtResource("1_0y5nc")
+
+[node name="Node" type="Node" parent="." unique_id=22699104]
+script = ExtResource("3_k7lo4")
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="Node" unique_id=934722939]
