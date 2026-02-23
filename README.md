@@ -21,6 +21,24 @@ Greetings fellow octopus
 - [GDScript Tutorial](https://www.youtube.com/watch?v=e1zJS31tr88)
 - [5 Games Made in Godot to inspire you each week](https://www.youtube.com/@stayathomedev) 
 
+## Week 5 Lab - Create a Simple Game
+
+Create BugZap. Create the main game and scoring first. Add start and game over scenece if you have time:
+
+[![YouTube](http://img.youtube.com/vi/s6PA8jtWneQ/0.jpg)](https://www.youtube.com/watch?v=s6PA8jtWneQ)
+
+- Start with creating the player
+- Moving the player with input
+- Creating the bug
+- Shooting
+
+Bonus!
+
+- Improve the bug movemenmt with Tweens
+- Add more bugs
+- Create a Particle system for the explosion 
+- Explore the history of the original game
+
 ## Week 4 Lab - Creating Interactive Systems
 
 - Download this repo to get the examples!
