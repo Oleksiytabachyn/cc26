@@ -23,7 +23,21 @@ Greetings fellow octopus
 
 ## Week 6
 
-## Lab - Spiral Jam
+## Lab - Flower Jam
+Your task today is to go outdoors for a nice walk, in groups of two or three, and take photos of different flowers, plants and trees on the campus with your phones. Spend around half an hour doing this. Get a good variety.
+
+When you come back to the lab, create a "Flower Generator" algorithm that generates the patterns, shapes and colors of the pictures you took. Use the drawing functions and loops. Use the spiral example we made on Friday as help. Study this first to understand it!! You can also experiment with recursion to create trees if you feel inspired. Here is [an article on the subject](https://natureofcode.com/fractals/).
+
+I encourage you NOT to use AI for this task and instead to contemplate the task and experiment with your code to make it work. Remember, You are creating art with code and expressing YOIURSELF. 
+
+Upload to brightspace at least:
+
+- 1 photo
+- 1 screenshot of your flower generator
+- Your code
+
+- [Previous examples](https://photos.app.goo.gl/TxMtsRRuDrQBonb56)
+
 
 ## Week 5 
 ## Lecture
