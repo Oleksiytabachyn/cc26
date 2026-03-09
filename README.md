@@ -24,8 +24,6 @@ Greetings fellow octopus
 
 ## Week 7
 
-Reminder! This course is FULL-TIME and IN-PERSON. You should attend all lectures and labs to achieve the learning outcomes.
-
 ## Lab
 - Open week7 scene and see how it works. Look at the script week_7.gd
 
