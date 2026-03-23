@@ -4,7 +4,7 @@
 Greetings fellow octopus
 ```
 
-# Hello from Rishi
+# Hello from Oleksiy Tabachyn 
 
 # Assessment
 - End of year programming test 33%
